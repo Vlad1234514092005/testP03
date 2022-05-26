@@ -1,3 +1,3 @@
 class Date{
-
+Date(int m, int y, int d)
 }
